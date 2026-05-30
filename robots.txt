@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /assets/img/ach/
+Disallow: /assets/img/hero/
+Disallow: /assets/img/about/
+
+User-agent: *
+Allow: /assets/img/logo/
+Allow: /assets/img/og/
+
+Sitemap: https://sayit-studio.github.io/pei_chi_77/sitemap.xml
